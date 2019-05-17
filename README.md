@@ -1,5 +1,5 @@
 # Equarium
-A side project that me and my two collegues did in our free time.
+A side project that me and my two collegues did in our free time. <br>
 Available at [eQuarium](http://www.equarium.pl/)
 
 ## Tools used:
