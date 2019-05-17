@@ -5,7 +5,7 @@ Available at [eQuarium](http://www.equarium.pl/)
 ## Tools used:
 - HTML, CSS, JS
 - Webpack and Babel
-- AOS and Vanilla-tilt librares
+- AOS and Vanilla-tilt libraries
 
 ## Authors:
 - [me](https://github.com/mecies)
