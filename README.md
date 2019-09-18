@@ -1,6 +1,6 @@
 # Equarium
 A side project that me and my two collegues did in our free time. <br>
-Available at [eQuarium](http://www.equarium.pl/)
+Available at [eQuarium1](http://www.equarium.pl/) or [eQuarium2](http://www.equarium.eu/)
 
 ## Tools used:
 - HTML, CSS, JS
