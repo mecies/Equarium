@@ -1,6 +1,6 @@
 # Equarium
 A side project that me and my two collegues did in our free time. <br>
-Available at [eQuarium1](http://www.equarium.pl/) or [eQuarium2](http://www.equarium.eu/)
+Live version not available anymore.
 
 ## Tools used:
 - HTML, CSS, JS
